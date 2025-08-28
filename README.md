@@ -1,32 +1,19 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# TSWD-portfolio-templates
-These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
-It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
-
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
-
-# Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
-
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi there! My name is Jun Wang, and I'm currently a graduate student in the M.S. in Business Intelligence and Data Analytics program at Carnegie Mellon University. My pronouns are she/her. My background is in economics and data science, and I'm passionate about using data to uncover meaningful insights and communicate them effectively.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+I'm excited to dive deeper into the art of data visualization and learn how to create compelling visual narratives. My goal for this course is to strengthen my skills in tools like Tableau and to master the principles of effective data storytelling. 
 
-1. List item #1
-2. List item #2
-3. List item #3
+I want to build a portfolio of projects that not only present data but also engage an audience and drive understanding. 
 
-or...
-
-- List item #1
-- List item #2
-- List item #3
+After graduation, I plan to pursue a career as a data analyst or data scientist, where I can apply my skills to solve real-world problems and help organizations make informed, data-driven decisions.
 
 # Portfolio
+Data visualization #1
+Critique by Design
+Final Project
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
