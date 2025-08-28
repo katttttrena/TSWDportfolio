@@ -11,9 +11,11 @@ I want to build a portfolio of projects that not only present data but also enga
 After graduation, I plan to pursue a career as a data analyst or data scientist, where I can apply my skills to solve real-world problems and help organizations make informed, data-driven decisions.
 
 # Portfolio
-Data visualization #1
+Data Viz Examples
 Critique by Design
-Final Project
+Final Project I
+Final Project II
+Final Project III
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
