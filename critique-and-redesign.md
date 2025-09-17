@@ -1,3 +1,4 @@
+#Critique and Redesign
 <div class='tableauPlaceholder' id='viz1758058968809' style='position: relative'><noscript><a href='#'><img alt='Marvel Movies: A Comparison of Audience Score, Gross Profit, and Budget ' 
                                                                                                          src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;MarvelMovie_17580588996880&#47;Sheet2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'
 
