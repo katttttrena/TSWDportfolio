@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) |[critique and redesign](critique-and-redesign) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) |[critique and redesign](critique-and-redesign) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # About me
 Hi there! My name is Jun Wang, and I'm currently a graduate student in the M.S. in Business Intelligence and Data Analytics program at Carnegie Mellon University. My pronouns are she/her. My background is in economics and data science, and I'm passionate about using data to uncover meaningful insights and communicate them effectively.
@@ -12,19 +12,14 @@ After graduation, I plan to pursue a career as a data analyst or data scientist,
 
 # Portfolio
 Data Viz Examples
-Critique by Design
+Critique and Redesign
 Final Project I
 Final Project II
 Final Project III
 
-# Examples
 
-
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
-
-## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+## Assignment : [critique and redesign](critique-and-redesign)
+Marvel Movies: A Comparison of Audience Score, Gross Profit, and Budget
 
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
