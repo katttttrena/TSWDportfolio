@@ -20,9 +20,9 @@ As an immigration advocate, I want a clear, data-driven narrative to demonstrate
 Text here...
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
-
-Text here...
+> H1B Registration and Selection Data: I will manually collect historical data from the USCIS website's annual news releases and alerts. This involves navigating to specific fiscal year updates and compiling the number of registrations and selections into a CSV file. The file will be uploaded to my GitHub repository.
+> International Student Enrollment Data: I will use the "Open Doors Data" portal provided by the Institute of International Education (IIE). The website offers downloadable datasets that I can use to track enrollment numbers by academic level and field of study over time. A direct link to the data portal will be provided.
+> U.S. Unemployment Rate Data: I will source this data from the Macrotrends website, which compiles historical data from the U.S. Bureau of Labor Statistics (BLS). This data is available in a clean table format that can be easily copied and pasted or scraped into a CSV. A link to the specific data page will be included.
 
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
