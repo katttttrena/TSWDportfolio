@@ -4,14 +4,16 @@
 ##Final Project Outline: The International Student's American Dream - A Data Story
 
 #High-Level Summary
->This project will explore the increasingly challenging career path for international students in the United States. Through a narrative-driven data visualization, I aim to tell a compelling story about how rising international student aspirations, a competitive job market, and a highly selective H1B visa lottery have created a gauntlet for those seeking to build a career in the U.S. By integrating official data on student enrollment, H1B registration numbers, and national unemployment rates, the project will reveal a stark contrast between the promise of an American education and the reality of the post-graduation professional landscape. The target audience is prospective international students, current students, and anyone interested in immigration and labor market trends.
->The core message of the project is that the "American Dream" for international students is becoming a high-stakes numbers game. The project will show how a steady increase in international student enrollment over the past decade has collided with a volatile H1B lottery, leading to a significant decrease in the probability of securing a work visa. This story will provide a data-backed perspective on the challenges and choices facing this ambitious group.
->One-Sentence Summary: Through a timeline of international student enrollment, U.S. unemployment, and H1B lottery data, this project tells a story of increasing competition and diminishing odds for international graduates seeking a career in the U.S.
+>This project, "The International Student's American Dream: A Data Story," explores the increasingly difficult career path for international students in the United States. While U.S. universities attract a growing number of talented individuals from around the globe, the post-graduation landscape presents a formidable challenge. The core of this story lies in the stark contrast between the promise of a world-class American education and the reality of securing a work visa in a highly competitive environment.
+
+>Through a narrative-driven data visualization, this project will weave together data on rising international student enrollment, the staggering financial investment required, and the slim, lottery-based odds of obtaining an H-1B work visa. The goal is to provide a data-backed perspective on the immense pressures and uncertainties facing this ambitious group. The target audience includes prospective international students seeking to manage their expectations, current students navigating their career options, and policymakers or advocates interested in U.S. immigration and labor market dynamics.
+
+
 
 #User Stories:
 >As a prospective international student, I want to see the historical trends of H1B visas so I can realistically assess my chances of working in the U.S. after graduation.
-As a current international student, I want to understand the current visa landscape and how my job prospects are tied to broader economic and immigration policies.
-As an immigration advocate, I want a clear, data-driven narrative to demonstrate the challenges and inefficiencies of the current U.S. work visa system.
+>As a current international student, I want to understand the current visa landscape and how my job prospects are tied to broader economic and immigration policies.
+>As an immigration advocate, I want a clear, data-driven narrative to demonstrate the challenges and inefficiencies of the current U.S. work visa system.
 
 
 ## Initial sketches
@@ -28,9 +30,9 @@ Text here...
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+|International Student Enrollment|https://opendoorsdata.org/|Sourced from the Institute of International Education's Open Doors Report. This will be used to show the rising number of students beginning this journey.|
+|H-1B Registration Data|https://www.uscis.gov/working-in-the-united-states/temporary-workers/h-1b-specialty-occupations/h-1b-electronic-registration-process|Compiled from USCIS press releases. This data is the core of the story, used to illustrate the "bottleneck" of soaring applications vs. a static visa cap.|
+|U.S. Unemployment Rate|https://www.macrotrends.net/datasets/global-metrics/countries/usa/united-states/unemployment-rate|Sourced from Macrotrends (compiling BLS data). This provides economic context to see how the job market correlates with visa competition.|
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
