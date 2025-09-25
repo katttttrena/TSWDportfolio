@@ -1,16 +1,14 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 
-##Final Project Outline: The International Student's American Dream - A Data Story
+## Final Project Outline: The International Student's American Dream - A Data Story
 
-#High-Level Summary
-This project, "The International Student's American Dream: A Data Story," explores the increasingly difficult career path for international students in the United States. While U.S. universities attract a growing number of talented individuals from around the globe, the post-graduation landscape presents a formidable challenge. The core of this story lies in the stark contrast between the promise of a world-class American education and the reality of securing a work visa in a highly competitive environment.
-
-Through a narrative-driven data visualization, this project will weave together data on rising international student enrollment, the staggering financial investment required, and the slim, lottery-based odds of obtaining an H-1B work visa. The goal is to provide a data-backed perspective on the immense pressures and uncertainties facing this ambitious group. The target audience includes prospective international students seeking to manage their expectations, current students navigating their career options, and policymakers or advocates interested in U.S. immigration and labor market dynamics.
+# High-Level Summary
+This project, "The International Student's American Dream: A Data Story," explores the increasingly difficult career path for international students in the United States. While U.S. universities attract a growing number of talented individuals from around the globe, the post-graduation landscape presents a formidable challenge. The core of this story lies in the stark contrast between the promise of a world-class American education and the reality of securing a work visa in a highly competitive environment.Through a narrative-driven data visualization, this project will weave together data on rising international student enrollment, the staggering financial investment required, and the slim, lottery-based odds of obtaining an H-1B work visa. The goal is to provide a data-backed perspective on the immense pressures and uncertainties facing this ambitious group. The target audience includes prospective international students seeking to manage their expectations, current students navigating their career options, and policymakers or advocates interested in U.S. immigration and labor market dynamics.
 
 
 
-#User Stories:
+# User Stories:
 As a prospective international student, I want to see the historical trends of H1B visas so I can realistically assess my chances of working in the U.S. after graduation.
 As a current international student, I want to understand the current visa landscape and how my job prospects are tied to broader economic and immigration policies.
 As an immigration advocate, I want a clear, data-driven narrative to demonstrate the challenges and inefficiencies of the current U.S. work visa system.
