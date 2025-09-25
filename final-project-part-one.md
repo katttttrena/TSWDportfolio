@@ -1,27 +1,27 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 
-## Final Project Outline: The International Student's American Dream - A Data Story
+# Final Project Outline: The International Student's American Dream - A Data Story
 
-# High-Level Summary
+## High-Level Summary
 This project, "The International Student's American Dream: A Data Story," explores the increasingly difficult career path for international students in the United States. While U.S. universities attract a growing number of talented individuals from around the globe, the post-graduation landscape presents a formidable challenge. The core of this story lies in the stark contrast between the promise of a world-class American education and the reality of securing a work visa in a highly competitive environment.Through a narrative-driven data visualization, this project will weave together data on rising international student enrollment, the staggering financial investment required, and the slim, lottery-based odds of obtaining an H-1B work visa. The goal is to provide a data-backed perspective on the immense pressures and uncertainties facing this ambitious group. The target audience includes prospective international students seeking to manage their expectations, current students navigating their career options, and policymakers or advocates interested in U.S. immigration and labor market dynamics.
 
 
 
-# User Stories:
+## User Stories:
 As a prospective international student, I want to see the historical trends of H1B visas so I can realistically assess my chances of working in the U.S. after graduation.
 As a current international student, I want to understand the current visa landscape and how my job prospects are tied to broader economic and immigration policies.
 As an immigration advocate, I want a clear, data-driven narrative to demonstrate the challenges and inefficiencies of the current U.S. work visa system.
 
 
-## Initial sketches
-# Sketch 1: The Dream Begins
+# Initial sketches
+## Sketch 1: The Dream Begins
 Key Header: The Promise of a U.S. Education: A Rising Tide of Global Talent
 Visualization: An area chart showing the total number of new international student enrollments from 2009-2024. A key annotation will point out the post-pandemic rebound, emphasizing the enduring appeal.
 Message: This visual establishes the story's foundation: the increasing number of individuals who are starting this journey.
 ![WechatIMG947](https://github.com/user-attachments/assets/4a5f302a-1f6d-45e9-ade0-b24efb51daa7)
 
-# Sketch 2: The Great Funnel
+## Sketch 2: The Great Funnel
 Key Header: The Bottleneck: Soaring Ambitions Meet a Hard Limit
 Visualization: A dual-axis combination chart.
 Bars: Represent the total number of H-1B registrations each year, showing a dramatic upward spike.
@@ -29,7 +29,7 @@ Line: A stark, flat reference line at 85,000, representing the annual H-1B visa 
 Message: This is the story's central conflict. The widening gap between the bars and the line provides an immediate, powerful visual of the supply-and-demand crisis.
 ![WechatIMG948](https://github.com/user-attachments/assets/1ee9ed59-4d58-44cc-a8fd-0ac004f14695)
 
-# Sketch 3: A Roll of the Dice
+## Sketch 3: A Roll of the Dice
 Key Header: Your Odds of Success Are...
 Visualization: A line chart showing the calculated probability of securing an H-1B visa over time (Calculated as (85,000 / Total Registrations) * 100%). The line will show a steep decline. An overlapping line will show the U.S. unemployment rate to explore potential correlations.
 Message: This chart translates the abstract competition from Sketch 2 into a personal, sobering statistic, directly answering the user's question: "What are my chances?"
