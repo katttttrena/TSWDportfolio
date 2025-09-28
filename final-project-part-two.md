@@ -1,30 +1,26 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
-
-Text here!
+The story is titled "The International Student's American Dream: A Data Story" and will be constructed as a guided narrative using Tableau's "Story Points" feature. The flow follows the journey from ambition (high enrollment) to conflict (visa cap) to personal reality (low odds).
 
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+My primary audiences are the following two groups of people:
+1. Current and Potential International Students: They need to analyze and understand the landscape of the H-1B Visa, so they can manage their expectations and career paths.
+2. Policymakers and Immigration Advocates: They require clear, data-based evidence to interpret the systemic pressures caused by the visa cap on international students.
 
-Text here!
+My approach to identifying representative individuals was to select from each of these primary groups: a student currently in the pipeline, a professional who successfully navigated the process, and a policy-aware advocate.
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
-
-Text here!
+The general goal is to test the narrative's clarity, emotional effectiveness, and completeness by collecting feedback on the visualizations and overall story flow.
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
-
-
-Text here!
+|Clarity|Do the visualizations clearly communicate the intended problem?|
+|Relevance|After seeing the 'Odds of Success' chart, what action or thought process would you immediately consider?|
+|Completeness|Is there any crucial element missing from this story about the international student journey?|
+|Tone|Does the story's progression feel logical and engaging, or does it feel overly negative/complex?|
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
