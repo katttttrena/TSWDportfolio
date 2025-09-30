@@ -4,7 +4,6 @@
 The story is titled "The International Student's American Dream: A Data Story" and will be constructed as a guided narrative using Tableau's "Story Points" feature. The flow follows the journey from ambition (high enrollment) to conflict (visa cap) to personal reality (low odds).
 
 # User research 
-
 ## Target audience
 My primary audiences are the following two groups of people:
 1. Current and Potential International Students: They need to analyze and understand the landscape of the H-1B Visa, so they can manage their expectations and career paths.
@@ -27,34 +26,25 @@ The general goal is to test the narrative's clarity, emotional effectiveness, an
 
 Text here!
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1 (International Student) | Interview 2（Hiring Manager） | Interview 3（General Audience） |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+|Do the visualizations clearly communicate the intended problem?|The first chart's y-axis is unclear—is "250" 250,000 students?|The widening gap in the H-1B chart is very powerful.|The connection between low unemployment and low selection rate is a bit complex.|
+|After seeing the third chart, what action or thought process would you immediately consider?|I would immediately consider applying for jobs in Canada or other countries with clearer immigration paths.|I'd think about the cost and difficulty of sponsoring a candidate and the high chance of them not getting the visa.|I would want to know what the visa selection criteria are, or if there's a different visa option.|
+|Is there any crucial element missing from this story about the international student journey?|The story desperately needs to mention the tuition and living costs—it makes the risk so much greater.|It's missing what happens after rejection, like being forced to leave within 60 days.|Is there any hope? What are the alternatives to the H-1B lottery?|
+|Does the story's progression feel logical and engaging, or does it feel overly negative/complex?|It's logical, but it feels like a tragedy.|The progression is logical: enrollment up → visa down. The tone is appropriate for the severity of the problem.|It would be better if you can include a Call-to-Action page.|
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
+The planned changes will focus on clarifying the data, enhancing the emotional impact by adding financial context, and strengthening the "Call to Action" by offering solution-oriented context.
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+|Y-Axis Clarity Issue (Interview 1)| Describe what, if any changes you anticipate making to address the observation.|Change the 'New International Enrollment' y-axis labels (Page 3) to explicitly include thousands (e.g., "250K" instead of "250") or add a footnote stating the units are in thousands.|
+|Inverse Relationship Explanation (Interview 3)|Revise the text accompanying the 'Trend Comparison' chart (Page 5) to more clearly articulate: Low unemployment → high demand for workers → more H-1B registrations → lower selection rate due to fixed visa caps.|
+| Call to Action (Interview 3)| Add a call-to-action page to the presentation.|
+|Add a slide/callout at the beginning of Page 4 to quantify the average cost of a U.S. graduate degree (the primary H-1B applicants). This will strengthen the emotional narrative of risk vs. reward.| Add a dataset related to living cost.|
 
-> ...include any final thoughts you have here. 
-
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
+The core data story is sound, successfully demonstrating the supply-and-demand crisis in the international student career path. The identified changes are mainly focused on making the data more accessible to a general audience (clarity on units), enriching the emotional context (cost of education), and providing a more action-oriented conclusion, which will complete the story arc from problem to potential solution.
 
 ## References
 _List any references you used here._
