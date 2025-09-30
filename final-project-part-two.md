@@ -2,6 +2,7 @@
 
 # Wireframes / storyboards
 The story is titled "The International Student's American Dream: A Data Story" and will be constructed as a guided narrative using Tableau's "Story Points" feature. The flow follows the journey from ambition (high enrollment) to conflict (visa cap) to personal reality (low odds).
+A link to access the storyboard: Storyboard[https://www.canva.com/design/DAG0SwACmuI/iWiX0dFoGhH9T7bC5-BOUA/edit?utm_content=DAG0SwACmuI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
 
 # User research 
 ## Target audience
@@ -47,8 +48,13 @@ The planned changes will focus on clarifying the data, enhancing the emotional i
 The core data story is sound, successfully demonstrating the supply-and-demand crisis in the international student career path. The identified changes are mainly focused on making the data more accessible to a general audience (clarity on units), enriching the emotional context (cost of education), and providing a more action-oriented conclusion, which will complete the story arc from problem to potential solution.
 
 ## References
-_List any references you used here._
+Institute of International Education. (2024). "New International Student Enrollment, 2008/09 - 2023/24." Open Doors Report on International Educational Exchange. Retrieved from https://opendoorsdata.org/.
+
+Macrotrends. (n.d.). U.S. Unemployment Rate 1991-2024. Retrieved from https://www.macrotrends.net/countries/USA/united-states/unempolyment-rate.
+
+U.S. Citizenship and Immigration Services. (n.d.). H-1B Electronic Registration Process. Retrieved from https://www.uscis.gov/working-in-the-united-states/temporary-workers/h-1b-specialty-occupations/h-1b-electronic-registration-process. (Note: Data was compiled from annual news releases linked from this page).
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I used an AI assistant (Google's Gemini) to help refine and structure clearer, more concise language. While the AI provided assistance with structure and language, the core project concept, data sourcing, narrative arc, and final analysis are my own.
+
 
