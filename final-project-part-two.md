@@ -2,7 +2,7 @@
 
 # Wireframes / storyboards
 The story is titled "The International Student's American Dream: A Data Story" and will be constructed as a guided narrative using Tableau's "Story Points" feature. The flow follows the journey from ambition (high enrollment) to conflict (visa cap) to personal reality (low odds).
-A link to access the storyboard: Storyboard[https://www.canva.com/design/DAG0SwACmuI/iWiX0dFoGhH9T7bC5-BOUA/edit?utm_content=DAG0SwACmuI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
+A link to access the storyboard: Storyboard [https://www.canva.com/design/DAG0SwACmuI/iWiX0dFoGhH9T7bC5-BOUA/edit?utm_content=DAG0SwACmuI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
 
 # User research 
 ## Target audience
