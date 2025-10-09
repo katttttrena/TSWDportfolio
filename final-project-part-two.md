@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) |[critique and redesign](critique-and-redesign) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://katttttrena.github.io/TSWDportfolio/) |[critique and redesign](critique-and-redesign) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
 The story is titled "The International Student's American Dream: A Data Story" and will be constructed as a guided narrative using Tableau's "Story Points" feature. The flow follows the journey from ambition (high enrollment) to conflict (visa cap) to personal reality (low odds).
