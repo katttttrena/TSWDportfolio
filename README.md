@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) |[critique and redesign](critique-and-redesign) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://katttttrena.github.io/TSWDportfolio/) |[critique and redesign](critique-and-redesign) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # About me
 Hi there! My name is Jun Wang, and I'm currently a graduate student in the M.S. in Business Intelligence and Data Analytics program at Carnegie Mellon University. My pronouns are she/her. My background is in economics and data science, and I'm passionate about using data to uncover meaningful insights and communicate them effectively.
