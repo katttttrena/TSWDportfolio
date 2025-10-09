@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) |[critique and redesign](critique-and-redesign) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://katttttrena.github.io/TSWDportfolio/) |[critique and redesign](critique-and-redesign) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Final Project Outline: The International Student's American Dream - A Data Story
 
