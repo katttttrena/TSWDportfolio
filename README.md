@@ -21,7 +21,7 @@ Final Project III
 Marvel Movies: A Comparison of Audience Score, Gross Profit, and Budget
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
+This project, "The International Student's American Dream: A Data Story," explores the increasingly difficult career path for international students in the United States. While U.S. universities attract a growing number of talented individuals from around the globe, the post-graduation landscape presents a formidable challenge. The core of this story lies in the stark contrast between the promise of a world-class American education and the reality of securing a work visa in a highly competitive environment.Through a narrative-driven data visualization, this project will weave together data on rising international student enrollment, the staggering financial investment required, and the slim, lottery-based odds of obtaining an H-1B work visa. The goal is to provide a data-backed perspective on the immense pressures and uncertainties facing this ambitious group. The target audience includes prospective international students seeking to manage their expectations, current students navigating their career options, and policymakers or advocates interested in U.S. immigration and labor market dynamics.
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
 [Part III](final-project-part-three)
