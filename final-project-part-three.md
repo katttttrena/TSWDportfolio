@@ -1,7 +1,7 @@
 | [home page](https://katttttrena.github.io/TSWDportfolio/) |[critique and redesign](critique-and-redesign) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-[final data story](https://preview.shorthand.com/kH4MsGqwET6BvcBk)
+[Link to Find Final Data Story](https://preview.shorthand.com/kH4MsGqwET6BvcBk)
 
 # Changes made since Part II
 Since Part II, my project has been refined based on the feedback gathered during user research, interviews and professor's feedback. While the core narrative—charting the journey from student ambition to the reality of the H-1B lottery—remains the same, the story's depth, clarity, and purpose have been enhanced. The interviews confirmed the core data story was powerful.
