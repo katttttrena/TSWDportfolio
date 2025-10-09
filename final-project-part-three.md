@@ -21,7 +21,7 @@ The most crucial phase of the design process was incorporating user feedback, wh
 Ultimately, this project taught me that effective data storytelling relies on two key elements: a narrative anchor and human context. I learned that a single, powerful visualization—the "climax chart" showing the H-1B supply-and-demand crisis—can serve as the heart of an entire story. Furthermore, I discovered that data's true impact comes from context. By framing the low visa odds against the backdrop of the immense financial investment students make, the story gained a profound emotional weight. The process reinforced that the best data stories are built not just on numbers, but on empathy and a clear understanding of the audience's need for meaning.
 
 ## References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
+All included in Shorthand.
 
 ## AI acknowledgements
 The AI helps me structure and refine the language.
