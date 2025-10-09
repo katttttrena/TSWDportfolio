@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) |[critique and redesign](critique-and-redesign) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) |[critique and redesign](critique-and-redesign) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Critique and Redesign
 <div class='tableauPlaceholder' id='viz1758058968809' style='position: relative'><noscript><a href='#'><img alt='Marvel Movies: A Comparison of Audience Score, Gross Profit, and Budget ' 
